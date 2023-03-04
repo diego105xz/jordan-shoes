@@ -1,13 +1,10 @@
 import './App.css';
-
-import Topo from './componentes/Topo';
-import Banner from './componentes/Banner';
+import Rotas from './rotas';
 
 function App() {
   return (
     <div className="App">
-      <Topo />
-      <Banner />
+      <Rotas />
     </div>
   );
 }

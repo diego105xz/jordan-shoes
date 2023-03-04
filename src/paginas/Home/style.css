@@ -1,0 +1,39 @@
+.conteudo{
+    width: 100%;
+}
+
+h3{
+    margin-top: 50px;
+    font-size: 32px;
+}
+
+.sub-titulo{
+    font-size: 20px;
+    margin-bottom: 50px;
+}
+
+.galeria{
+    width: 90%;
+    margin: 0 auto;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.card{
+    border-radius: 0px 15px 0px 15px;
+    background-color: #Ebe9ea;
+    width: 20%;
+    margin: 10px;
+    cursor: pointer;
+}
+
+.card:hover{
+    border: 1px solid black;
+    box-shadow: 0px 0px 5px 5px black;
+}
+
+.img-shoes{
+    width: 70%;
+}
