@@ -24,6 +24,9 @@
     align-items: center;
 }
 
+select{
+    font-size: 18px;
+}
 
 .botoes{
     display: flex;
