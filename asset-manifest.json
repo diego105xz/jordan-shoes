@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/jordan-shoes/static/css/main.3636ab87.css",
-    "main.js": "/jordan-shoes/static/js/main.e8d36e91.js",
+    "main.css": "/jordan-shoes/static/css/main.d211bbbc.css",
+    "main.js": "/jordan-shoes/static/js/main.3c6e41ad.js",
     "static/js/787.65f7311e.chunk.js": "/jordan-shoes/static/js/787.65f7311e.chunk.js",
     "static/media/6.png": "/jordan-shoes/static/media/6.e318a1fb16ded1ee97aa.png",
     "static/media/7.png": "/jordan-shoes/static/media/7.ba5ce7d3e5a18f837c6e.png",
@@ -12,13 +12,14 @@
     "static/media/2.png": "/jordan-shoes/static/media/2.a5f658a0afa9aa7cb8eb.png",
     "static/media/1.png": "/jordan-shoes/static/media/1.249d366b815dc432d2dd.png",
     "static/media/3.png": "/jordan-shoes/static/media/3.ef9a6a490e48db0017f9.png",
+    "static/media/banner3.jpg": "/jordan-shoes/static/media/banner3.a14bc0281f5bdf2f5ffe.jpg",
     "index.html": "/jordan-shoes/index.html",
-    "main.3636ab87.css.map": "/jordan-shoes/static/css/main.3636ab87.css.map",
-    "main.e8d36e91.js.map": "/jordan-shoes/static/js/main.e8d36e91.js.map",
+    "main.d211bbbc.css.map": "/jordan-shoes/static/css/main.d211bbbc.css.map",
+    "main.3c6e41ad.js.map": "/jordan-shoes/static/js/main.3c6e41ad.js.map",
     "787.65f7311e.chunk.js.map": "/jordan-shoes/static/js/787.65f7311e.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.3636ab87.css",
-    "static/js/main.e8d36e91.js"
+    "static/css/main.d211bbbc.css",
+    "static/js/main.3c6e41ad.js"
   ]
 }
