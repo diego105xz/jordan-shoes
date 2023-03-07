@@ -14,12 +14,10 @@
     width: 400px;
 }
 
-
-
 .tenis{
     display: flex;
     width: 60%;
-    margin: 80px auto;
+    margin: 95px auto;
     justify-content: space-around;
     align-items: center;
 }

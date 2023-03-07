@@ -5,9 +5,9 @@ import { Link } from 'react-router-dom'
 import Topo from '../../componentes/Topo';
 import Rodape from '../../componentes/Rodape';
 
-import shoes1 from '../../img/1.png'
+import shoes2 from '../../img/2.png'
 
-function Shoes1(){
+function Shoes2(){
     return(
         <div className='shoes1'>
             <Topo />
@@ -15,9 +15,9 @@ function Shoes1(){
                 <div className='banner-2'>
                 </div>
                 <div className='tenis'>
-                    <img src={shoes1} className='tenis-modelo' alt='tenis'/>
+                    <img src={shoes2} className='tenis-modelo' alt='tenis'/>
                     <div className='preco'>
-                        <h1>Jordan Zion</h1>
+                        <h1>Air Jordan 11</h1>
                         <p>ESCOLHA O TAMANHO</p>
                         <select>
                             <option>40</option>
@@ -27,10 +27,10 @@ function Shoes1(){
                             <option>44</option>
                             <option>45</option>
                         </select>
-                        <h2>R$ 999,99</h2>
-                        <p>EM ATÉ 10X DE R$ 99,99</p>
+                        <h2>R$ 1499,99</h2>
+                        <p>EM ATÉ 12x de R$ 125,00</p>
                         <div className='botoes'>
-                            <Link to={"/shoes1"} className='btn-comprar'>Comprar</Link>
+                            <Link to={"/shoes2"} className='btn-comprar'>Comprar</Link>
                             <Link to={"/"} className='btn-voltar'>Voltar</Link>
                         </div>
                     </div>
@@ -41,4 +41,4 @@ function Shoes1(){
     );
 }
 
-export default Shoes1;
+export default Shoes2;

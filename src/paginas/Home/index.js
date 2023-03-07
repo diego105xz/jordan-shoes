@@ -28,34 +28,34 @@ function Home(){
                         <p>Air Jordan Zion</p>
                         <img src={shoes1} alt='shoes' className='img-shoes'/>
                     </Link>
-                    <div className='card'>
+                    <Link className='card' to={"/shoes2"}>
                         <p>Air Jordan 11</p>
                         <img src={shoes2} alt='shoes' className='img-shoes'/>
-                    </div>
-                    <div className='card'>
+                    </Link>
+                    <Link className='card' to={"/shoes3"}>
                         <p>Air Jordan Hi FlyEase</p>
                         <img src={shoes3} alt='shoes' className='img-shoes'/>
-                    </div>
-                    <div className='card'>
+                    </Link>
+                    <Link className='card' to={"/shoes4"}>
                         <p>Air Jordan Retro Hogh OG</p>
                         <img src={shoes4} alt='shoes' className='img-shoes'/>
-                    </div>
-                    <div className='card'>
+                    </Link>
+                    <Link className='card' to={"/shoes5"}>
                         <p>Air Jordan Mid</p>
                         <img src={shoes5} alt='shoes' className='img-shoes'/>
-                    </div>
-                    <div className='card'>
+                    </Link>
+                    <Link className='card' to={"/shoes6"}>
                         <p>Air Jordan Elevate High</p>
                         <img src={shoes6} alt='shoes' className='img-shoes'/>
-                    </div>
-                    <div className='card'>
+                    </Link>
+                    <Link className='card' to={"/shoes7"}>
                         <p>Air Jordan High</p>
                         <img src={shoes7} alt='shoes' className='img-shoes'/>
-                    </div>
-                    <div className='card'>
-                        <p>Tênis Air Jordan Low SE</p>
+                    </Link>
+                    <Link className='card' to={"/shoes8"}>
+                        <p>Air Jordan Low SE</p>
                         <img src={shoes8} alt='shoes' className='img-shoes'/>
-                    </div>
+                    </Link>
                 </div>
             </section>
             <Rodape />
